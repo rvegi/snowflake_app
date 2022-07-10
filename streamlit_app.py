@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Snowflake's streamlit landing page')
+streamlit.title('Snowflake streamlit landing page')
